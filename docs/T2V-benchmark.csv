@@ -1,0 +1,4 @@
+requested_seconds,frames,actual_video_seconds,width,height,steps,seed,upscaler,total_execution_seconds,rewriter,six_step_original_total_seconds,six_step_rewriter_observed_seconds
+5,124,5.1667,1344,768,4,42,False,188.365,reused existing rewritten prompt; not timed,269.819,7.94
+10,243,10.125,1344,768,4,42,False,852.898,reused existing rewritten prompt; not timed,962.352,7.632
+15,362,15.0833,1344,768,4,42,False,1266.458,reused existing rewritten prompt; not timed,1881.793,8.573
